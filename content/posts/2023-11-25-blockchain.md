@@ -15,15 +15,15 @@ pin: true
 ---
 ## 블록체인이란
 
-![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F0b9180cd-967f-4b6d-826c-82c5e3cf54bf%2FUntitled.png?table=block&id=03f24911-2b55-43d0-88f9-60ec677f99e2&spaceId=9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6&width=2000&userId=54bb8d41-f1b7-45fb-8f3a-7162d9846226&cache=v)
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F0b9180cd-967f-4b6d-826c-82c5e3cf54bf%2FUntitled.png/size/w=2000?exp=1735868486&sig=99-CS-ReL9cycIJl6M_RJNp7QXZ9WvdTFFwaV96TkX4)
 
 블록체인은 쉽게 말해서 변조 방지를 위한 디지털 장부라고 볼 수 있다.  블록체인은 위와 같은 블록의 체인이며 블록 내에는 거래 내역 및 데이터들이 저장되고, 이 블록 내에 저장되는 데이터는 블록체인의 유형에 따라 다르다. 또한 이 블록체인은 중앙화로 구성되어 있는 은행과는 다르게 탈중앙화 되어 있다.
 
-![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F55476596-d523-4c54-9f9c-585048c908a2%2FUntitled.png?table=block&id=8ae0ca9f-6b6f-40c8-a81b-ffdbe97b9335&spaceId=9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6&width=2000&userId=54bb8d41-f1b7-45fb-8f3a-7162d9846226&cache=v2)
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F55476596-d523-4c54-9f9c-585048c908a2%2FUntitled.png/size/w=2000?exp=1735868435&sig=DR8C9ZJUUnjNHTq_zMc88gNSOek6MFY8h9SXLBAKLk4)
 
 중앙화의 경우에는 하나의 중앙 서버에 모든 데이터를 저장하고 있기 때문에 중앙 서버가 해킹 당하면 사용자의 데이터가 변조 되고 삭제될 수 있다. 그러나 탈중앙화의 경우 네트워크의 접속되어 있는 모든 노드가 데이터를 공유하고 있기 때문에 하나의 노드가 해킹을 당하더라도 해커는 정보를 변조하거나 삭제할 수 없다. 이것이 탈중앙화의 주 목적이다.
 
-![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F3ad2a4e7-8343-46e3-a03a-43c11d5eb77b%2FUntitled.png?table=block&id=fef43e6c-7c8d-4f2e-a703-8406c2c64975&spaceId=9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6&width=2000&userId=54bb8d41-f1b7-45fb-8f3a-7162d9846226&cache=v2)
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F3ad2a4e7-8343-46e3-a03a-43c11d5eb77b%2FUntitled.png/size/w=2000?exp=1735868536&sig=F8cWnZ6kfTfIBdge9oh-eRfo3dDya_ZBl0YB6Pv0VRQ)
 
 또 다른 예로는 구글의 Spreadsheet을 예로 들 수 있다. Spreadsheet을 누군가 생성을 하고, 이를 공유하면 네트워크를 통해 공유된다. 이렇게 공유된 네트워크에 사람들이 링크를 가지고 있는 누구나 접속을 해서 Spreadsheet을 읽고, 수정할 수 있다. 만약 누군가 Spreadsheet의 내용을 변경한다면 이는 이 네트워크에 접속하고 있는 모든 사용자의 컴퓨터에서 업데이트가 된다. 그러나 이때 누군가 한 명이라도 업데이트를 원치 않는다면 업데이트 되지 않는다.  블록체인도 마찬가지다. 하나의 블록이 해킹을 당해 장부의 데이터가 변조 되었다고 해도 장부를 가지고 있는 모든 사람이 동의해야 하기 때문에 변조되지 않는다.
 
@@ -41,7 +41,7 @@ pin: true
 ---
 ## 블록체인의 구조
 
-![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F70117f31-da8b-4bd0-bed8-4e8e92350a64%2FUntitled.png?table=block&id=33fc5068-5c1a-4da6-9793-188f601617a4&spaceId=9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6&width=2000&userId=54bb8d41-f1b7-45fb-8f3a-7162d9846226&cache=v2)
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F70117f31-da8b-4bd0-bed8-4e8e92350a64%2FUntitled.png/size/w=2000?exp=1735868552&sig=1IS5YNqAvFL3qCezcxciBMJGqcv_h7ieVuew0F79VzI)
 
 일단 블록체인에서의 첫 번째로 생성되는 블록은 Genesis Block이라고 한다. Genesis Block에는 장부의 데이터가 존재하지 않는다.
 
@@ -87,7 +87,7 @@ class CryptoBlock{
 ---
 ## 블록체인의 작동 방식
 
-![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F8032fad4-dbac-4ae5-ae33-3ab957a333c2%2FUntitled.png?table=block&id=dabaabba-2b8a-4953-b24a-ab26222e96b4&spaceId=9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6&width=2000&userId=54bb8d41-f1b7-45fb-8f3a-7162d9846226&cache=v2)
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F8032fad4-dbac-4ae5-ae33-3ab957a333c2%2FUntitled.png/size/w=2000?exp=1735868566&sig=S8BJ0JmwMdHoDDJ_EQl-ZdcNqWLeZDSuNJ45ly4Mk7I)
 
 블록체인의 작동 방식은 먼저 사용자가 거래를 요청하면 블록이 생성되는데 이 과정에서 PoW 작업을 거쳐 특정 조건을 만족하는 유효한 블록의 해시 값을 생성하게 되고, 이때 생성된 해시가 블록의 고유 해시이다. 이후에는 브로드캐스트에 의해서 전달받은 블록은 네트워크의 모든 노드로 전달되고, 모든 노드에서  검증을 맞친 이후에 아무런 문제가 없다면 이를 블록체인에 연결한다.
 
@@ -170,7 +170,7 @@ console.log(JSON.stringify(smashingCoin, null, 4));
 ```
 위 코드는 위에서 설명한 블록체인에 블록이 추가되기 까지의 과정을 구현한 코드이다.
 
-![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F44a1e496-8b63-4230-bc9a-e700f4476645%2F%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-11-28_22.18.06.png?table=block&id=06986ef7-77dc-4b39-b5ed-dc0b896dea57&spaceId=9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6&width=2000&userId=54bb8d41-f1b7-45fb-8f3a-7162d9846226&cache=v2)
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2F44a1e496-8b63-4230-bc9a-e700f4476645%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-11-28_22.18.06.png/size/w=2000?exp=1735868580&sig=wurVcZ47dElfw5kXARuU0Onp4oOCjPyr5B4jMvv_Fe8)
 
 그러나 코드를 실행해보면 두 번째, 세 번째, 네 번째 블록의 해시를 보면 합의 알고리즘이 적용되지 않은 것을 볼 수 있다. 이 경우, 블록체인 네트워크는 노드들 간에 일관된 데이터 상태를 유지하는 데 어려움을 겪을 수 있다. 합의 알고리즘은 분산된 환경에서 동일한 블록체인을 유지하기 위해 필요한 규칙과 메커니즘을 제공한다. 따라서 합의 알고리즘이 없다면 일관성 부재, 데이터 충돌과 위조, 이중 지불과 같이 보안 이슈가 발생할 수 있다.
 
@@ -186,7 +186,7 @@ proofOfWork(difficulty) {
 ```
 위와 같은 함수를 추가하고 다시 코드를 실행 해보자.
 
-![](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2Fe254e2ae-8076-45b1-bfa1-169db6949cb9%2FUntitled.png?table=block&id=3e90ab38-73d7-4eaa-b415-881d2a677d97&spaceId=9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6&width=2000&userId=54bb8d41-f1b7-45fb-8f3a-7162d9846226&cache=v2)
+![](https://img.notionusercontent.com/s3/prod-files-secure%2F9a5130d6-cf56-4bd9-8e9b-4ac666fd88f6%2Fe254e2ae-8076-45b1-bfa1-169db6949cb9%2FUntitled.png/size/w=2000?exp=1735868589&sig=qK2NxYuwr8HNcf4HfOPvrweNIZ8twEFX7n193YAstuU)
 
 블록의 해시를 보면 0이 4개로 시작하는 것을 볼 수 있다. 즉 nonce 값을 이용해서 해시를 만드는데 만약  difficulty(난이도)와 충족되는 해시가 아니라면 nonce의 값을 증가 시켜서 충족되는 해시가 나올 때 까지 루프를 타게 된다.
 
