@@ -1,0 +1,51 @@
+baseURL = 'P0cas.github.io'
+languageCode = 'en-us'
+title = 'Jeongwon Jo'
+theme = 'archie'
+ignoreLogs = ['warning-goldmark-raw-html']
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=5 # articles per page
+
+[params]
+	mode="dark" # color-mode → light,dark or auto
+	featherIconsCDN=true
+	subtitle = "Pocas Notes."
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/P0cas"
+
+# S[[params.social]]
+# Sname = "Twitter"
+# Sicon = "twitter"
+# Surl = "https://twitter.com/slonser_"
+
+[[params.social]]
+name = "Telegram"
+icon = "telegram"
+icon_pack = "fab"
+url = "https://t.me/jeongwon7"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "https://pocas.kr"
+weight = 3
